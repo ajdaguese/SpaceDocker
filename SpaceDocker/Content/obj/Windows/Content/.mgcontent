@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/goal.fbx</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/goalsurface.jpg</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/moon.fbx</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/moonsurface.png</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/posdisplayfont.spritefont</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/space.jpg</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/ssphere.fbx</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/torpedo.fbx</File>
+    <File>C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/torpedo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>torpedoSurface.png</File>
+  </DestFiles>
+</SourceFileCollection>

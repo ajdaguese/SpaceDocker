@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/goal.fbx","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/goal.xnb","ModelProcessor","ModelContent",4133868,277849,0.3819785
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/goalsurface.jpg","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/goalsurface.xnb","TextureProcessor","Texture2DContent",3455,201941,0.1146931
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/moon.fbx","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/moon.xnb","ModelProcessor","ModelContent",54076,25772,0.4797169
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/moonsurface.png","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/moonsurface_0.xnb","TextureProcessor","Texture2DContent",172029,43821,0.2283889
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/posdisplayfont.spritefont","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/posdisplayfont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0.2473381
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/space.jpg","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/space_0.xnb","TextureProcessor","Texture2DContent",243897,699189,0.8650251
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/ssphere.fbx","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/ssphere.xnb","ModelProcessor","ModelContent",52956,25991,1.138322
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/torpedo.fbx","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/torpedo.xnb","ModelProcessor","ModelContent",81488,19027,0.1909599
+"C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/torpedo.png","C:/Users/Alex/source/repos/SpaceDocker/SpaceDocker/Content/bin/Windows/Content/torpedoSurface.xnb","TextureProcessor","Texture2DContent",21039,262229,0.046624
